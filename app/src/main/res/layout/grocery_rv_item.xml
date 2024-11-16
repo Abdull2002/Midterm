@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:background="#EAEAEA"
+    android:layout_marginBottom="8dp">
+
+    <!-- TextView for displaying the item name -->
+    <TextView
+        android:id="@+id/idTVItemName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:text="Item Name" />
+
+    <!-- TextView for displaying the quantity -->
+    <TextView
+        android:id="@+id/idTVQuantity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:text="Quantity: 0" />
+
+    <!-- TextView for displaying the category -->
+    <TextView
+        android:id="@+id/idTVCategory"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:text="Category: " />
+
+    <!-- TextView for displaying the price -->
+    <TextView
+        android:id="@+id/idTVPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:text="Price: $" />
+
+</LinearLayout>
+
+
+

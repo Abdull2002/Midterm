@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#FFFFFF">
+
+    <!-- EditText for grocery item name -->
+    <EditText
+        android:id="@+id/idEdtGroceryName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:hint="Enter Grocery Name"
+        android:inputType="text" />
+
+    <!-- EditText for quantity -->
+    <EditText
+        android:id="@+id/idEdtGroceryQuantity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:hint="Enter Quantity"
+        android:inputType="number" />
+
+    <!-- EditText for category -->
+    <EditText
+        android:id="@+id/idEdtGroceryCategory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:hint="Enter Category"
+        android:inputType="text" />
+
+    <!-- EditText for price -->
+    <EditText
+        android:id="@+id/idEdtGroceryPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:hint="Enter Price"
+        android:inputType="numberDecimal" />
+
+    <!-- Button to update grocery item -->
+    <Button
+        android:id="@+id/idBtnUpdateGrocery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:text="Update Grocery"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textAllCaps="false" />
+
+    <!-- Button to delete grocery item -->
+    <Button
+        android:id="@+id/idBtnDeleteGrocery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Delete Grocery"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textAllCaps="false" />
+
+</LinearLayout>

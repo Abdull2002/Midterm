@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- EditText for entering the item name -->
+    <EditText
+        android:id="@+id/idEdtItemName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Item Name"
+        android:inputType="text" />
+
+    <!-- EditText for entering the quantity -->
+    <EditText
+        android:id="@+id/idEdtQuantity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Quantity"
+        android:inputType="number" />
+
+    <!-- EditText for entering the category -->
+    <EditText
+        android:id="@+id/idEdtCategory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Category"
+        android:inputType="text" />
+
+    <!-- EditText for entering the price -->
+    <EditText
+        android:id="@+id/idEdtPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Price"
+        android:inputType="numberDecimal" />
+
+    <!-- Button to add a grocery item -->
+    <Button
+        android:id="@+id/idBtnAddGrocery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Grocery Item" />
+
+    <!-- Button to view the grocery list -->
+    <Button
+        android:id="@+id/idBtnViewGrocery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Grocery List"
+        android:layout_marginTop="8dp" />
+</LinearLayout>
+
