@@ -10,6 +10,7 @@ Must do INSERT, UPDATE, SELECT, DELETE on the database
 Must have at least 1 list screen, 1 input screen "
 
 How to use the app
+
 Add Grocery Item: enter details in the input fields and click "Add Grocery Item".
 View Grocery List: The grocery list is displayed in a RecyclerView that fetches data from the SQLite database.
 Update or Delete Grocery Items: Selecting an item opens the update screen, allowing you to modify or delete the selected item.
