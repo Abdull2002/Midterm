@@ -31,3 +31,17 @@ list screen
 
 
 ![image](https://github.com/user-attachments/assets/d4016249-6eee-44d8-9184-3e12af4989bb)
+
+
+
+
+
+
+update and delete screen
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/b826e5e5-5da1-4605-9e11-77d02c096d22)
