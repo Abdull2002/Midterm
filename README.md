@@ -45,3 +45,21 @@ update and delete screen
 
 
 ![image](https://github.com/user-attachments/assets/b826e5e5-5da1-4605-9e11-77d02c096d22)
+
+
+
+
+
+
+
+
+References
+GeeksforGeeks. (2024, October 8). How to Create and Add Data to SQLite Database in Android?. Retrieved from https://www.geeksforgeeks.org/how-to-create-and-add-data-to-sqlite-database-in-android/
+
+GeeksforGeeks. (2024, October 8). How to Read Data from SQLite Database in Android?. Retrieved from https://www.geeksforgeeks.org/how-to-read-data-from-sqlite-database-in-android/
+
+GeeksforGeeks. (2023, January 3). How to Update Data to SQLite Database in Android?. Retrieved from https://www.geeksforgeeks.org/how-to-update-data-to-sqlite-database-in-android/
+
+GeeksforGeeks. (2022, December 21). How to Delete Data in SQLite Database in Android?. Retrieved from https://www.geeksforgeeks.org/how-to-delete-data-in-sqlite-database-in-android/
+
+GeeksforGeeks. (2018, October 26). Double parseDouble() method in Java with examples. Retrieved from https://www.geeksforgeeks.org/double-parsedouble-method-in-java-with-examples/
